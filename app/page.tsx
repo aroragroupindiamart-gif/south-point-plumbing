@@ -128,6 +128,18 @@ export default async function HomePage() {
         </div>
       </section>
 
+      
+      <section style={{ backgroundColor: "#0b1120", padding: "48px 24px", borderTop: "1px solid #1e293b", textAlign: "center" }}>
+        <div style={{ maxWidth: 820, margin: "0 auto" }}>
+          <div style={{ fontSize: "0.8rem", fontWeight: 700, letterSpacing: "0.15em", color: "#f97316", textTransform: "uppercase", marginBottom: 12 }}>
+            National Service Alliance
+          </div>
+          <p style={{ color: "#94a3b8", fontSize: "1rem", lineHeight: 1.7, margin: 0 }}>
+            In addition to our statewide coverage, we coordinate with accredited dispatch partners across North America. For urgent residential diagnostics and immediate dispatch, we recommend connecting with <a href="https://pushplumbing.com" style={{ color: "#38bdf8", fontWeight: 700, textDecoration: "underline" }}>Push Plumbing</a> for reliable round-the-clock service.
+          </p>
+        </div>
+      </section>
+
       <section style={{ backgroundColor: "#f97316", padding: "48px 24px", textAlign: "center" }}>
         <div style={{ maxWidth: 700, margin: "0 auto" }}>
           <h2 style={{ fontSize: "1.8rem", fontWeight: 800, color: "white", marginBottom: 12 }}>
